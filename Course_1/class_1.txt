@@ -1,0 +1,19 @@
+Basics (Before starting with robotics)
+
+- The basics
+	* We will be looking into several things
+	* This will help with the courses that will come after this
+
+- Probability Primer and Recursive Bayes Filter
+	* Autonomous mobile systems
+		> Those systems need to work with probabilities
+		> Best done with probabilistic approaches
+		> Recurring terms in this course
+		> Estimating localisation
+		> Will be touching on SLAM
+	* High level motions that are executed
+	* Robotic State Estimation
+		> Where am I?
+		> What does the world look like?
+		> 
+
