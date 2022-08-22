@@ -1,2 +1,2 @@
-# Online_training_Cyrill_Stachniss
+# Online training with Cyrill Stachniss
 Basics and mobile robotics
